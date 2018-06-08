@@ -1,0 +1,8 @@
+.DS_Store
+composer.lock
+cache/
+twig-templates/
+vendor/
+.vagrant/
+.env
+ubuntu-xenial-16.04-cloudimg-console.log
